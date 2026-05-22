@@ -6,6 +6,7 @@
 const candidato = {
   nome: "João Silva",
   area: "Front-End",
+  experienciaMeses: 6,
   habilidades: [
     "JavaScript",
     "HTML",
@@ -18,7 +19,6 @@ const candidato = {
     "Kanban",
     "Comunicação",
   ],
-  experienciaMeses: 6,
 };
 
 console.log("--- Perfil do Candidato ---");
