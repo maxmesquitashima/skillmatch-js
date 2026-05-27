@@ -54,3 +54,5 @@ GitHub: maxmesquitashima
 LinkedIn: www.linkedin.com/in/maximiliano-shimabucuro-0924411a6
 
 Quadro Kanban: https://github.com/users/maxmesquitashima/projects/2/views/1
+
+Video: https://www.loom.com/share/4eb1e0b019294527a03f75ebdcaf6e7d
